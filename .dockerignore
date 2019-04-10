@@ -2,4 +2,5 @@
 .gitignore
 Dockerfile
 docker-compose.yml
+stylegan
 README.md
